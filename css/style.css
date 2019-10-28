@@ -32,6 +32,18 @@ h1, h2, .navbar-brand {
 .navbar-brand img {
 	height: 60px;
 }
+
+/* to disable underline */
+.back-to-top a:hover {
+	text-decoration: none;
+	color: white;
+}
+
+.back-to-top a {
+	text-decoration: none;
+	color: white;
+}
+
 /* Improve Navbar */
 .navbar-nav {
 	/* NavBars Main Styling */
